@@ -1,0 +1,9 @@
+C:\Users\Milan Milosev\Desktop\AUS\dCom-radna-verzija\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\Milan Milosev\Desktop\AUS\dCom-radna-verzija\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\Milan Milosev\Desktop\AUS\dCom-radna-verzija\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\Milan Milosev\Desktop\AUS\dCom-radna-verzija\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\Milan Milosev\Desktop\AUS\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\Milan Milosev\Desktop\AUS\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\Milan Milosev\Desktop\AUS\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.csproj.Up2Date
+C:\Users\Milan Milosev\Desktop\AUS\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\Milan Milosev\Desktop\AUS\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.pdb
