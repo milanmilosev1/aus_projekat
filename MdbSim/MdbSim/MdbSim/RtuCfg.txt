@@ -1,6 +1,6 @@
 STA 8
 TCP 43618
 
-DO_REG  7 2700  0  0      1     0  DO  @DigOut #
-IN_REG  1 2300  0  0   4095  2000  AI  @AnaIn  #
-HR_INT  1 1300  0  0   4095  1200  AO  @AnaOut #
+DO_REG  7 2700  0  0      1     0  DO  @DigOut 2
+IN_REG  1 2300  0  0   4095  2000  AI  @AnaIn  3
+HR_INT  1 1300  0  0   4095  1200  AO  @AnaOut 3
